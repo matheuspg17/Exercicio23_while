@@ -1,4 +1,4 @@
-# Resolução Exercicio23_while]
+# Resolução Exercicio23_while
 
 ## Descrição do problema 
 Escreva um programa em Java usando while que solicite ao usuário um número
